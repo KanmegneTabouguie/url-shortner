@@ -1,0 +1,81 @@
+/* Container styles */
+.url-shortener-card {
+  max-width: 600px;
+  margin: 0 auto; /* Center horizontally */
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9;
+  margin-left: 400px;
+}
+
+/* Title styles */
+.url-shortener-title {
+  text-align: center;
+  font-size: 32px;
+  margin-bottom: 30px;
+  color: #333;
+}
+
+/* Form styles */
+.url-shortener-form {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px; /* Add margin bottom for spacing */
+}
+
+.url-shortener-label {
+  margin-bottom: 10px;
+  font-size: 18px;
+  color: #555;
+}
+
+.url-shortener-input {
+  padding: 16px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  transition: border-color 0.3s, box-shadow 0.3s; /* Add transition for smoother animation */
+}
+
+.url-shortener-input:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 8px rgba(0, 123, 255, 0.6); /* Add box shadow on focus */
+}
+
+.url-shortener-button {
+  padding: 16px 24px;
+  font-size: 18px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s, box-shadow 0.3s; /* Add transition for smoother animation */
+}
+
+.url-shortener-button:hover {
+  background-color: #0056b3;
+  transform: translateY(-2px); /* Add slight upward movement on hover */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add box shadow on hover */
+}
+
+/* Shortened URL styles */
+.url-shortener-shortened-url {
+  margin-top: 30px;
+}
+
+.url-shortener-shortened-url-text {
+  font-size: 18px;
+  color: #555;
+}
+
+.url-shortener-shortened-url-link {
+  color: #007bff;
+  text-decoration: none;
+  transition: color 0.3s; /* Add transition for smoother animation */
+}
+
+.url-shortener-shortened-url-link:hover {
+  color: #0056b3;
+}
