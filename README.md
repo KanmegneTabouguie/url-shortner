@@ -45,7 +45,10 @@ Les contributions sont les bienvenues ! Veuillez forker le dépôt, apporter vos
 ---
 
 
-![Screenshot 2024-03-18 at 17 22 48](https://github.com/KanmegneTabouguie/url-shortner/assets/133702750/b7e0a022-86fc-4abc-8e91-0726ca931a99)
 
+
+
+
+https://github.com/KanmegneTabouguie/url-shortner/assets/133702750/28d71ed9-b9ad-49f0-acf4-7c5bc6c84a85
 
 
